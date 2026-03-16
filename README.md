@@ -26,13 +26,15 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📝 Document Your Experience
 
 - [ ] Describe the game's purpose.
+The user has to guess a random number within given ranges and within given number of chances.
 - [ ] Detail which bugs you found.
+Range, reset, wrong hints, history
 - [ ] Explain what fixes you applied.
 
 ## 📸 Demo
 
 - [ ] [Insert a screenshot of your fixed, winning game here]
-
+![alt text](image.png)
 ## 🚀 Stretch Features
 
 - [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
